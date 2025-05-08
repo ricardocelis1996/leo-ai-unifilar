@@ -2,3 +2,4 @@ streamlit
 pandas
 ezdxf
 fpdf2
+openpyxl
